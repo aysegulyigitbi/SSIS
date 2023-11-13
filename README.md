@@ -6,15 +6,27 @@ SSIS (SQL Server Integration Services) is a component of Microsoft SQL Server, d
 
 The SSIS interface is a graphical user interface designed for developers working on data integration projects. Within the interface, you can easily connect, configure, and manage components used for data flow operations. The SSIS interface is utilized as part of Visual Studio, resulting in a structure similar to Visual Studio's user interface. The interface comprises different panels, windows, and menus.
 
+![image](https://github.com/aysegulyigitbi/SSIS/assets/127193220/41c7283a-1dbb-48c5-94a3-107479f45798)
+
+
 ## SSIS Components 🧩
 
 The SSIS interface incorporates numerous components for data integration processes. These components are employed to extract data from sources, transform it, and load it into specified data destinations. Some key components include:
 
 - **Source Components:** Used for extracting data from sources such as SQL Server or Excel.
 
+  ![image](https://github.com/aysegulyigitbi/SSIS/assets/127193220/170d439e-d96f-484f-96c6-350b1b671a45)
+  
+
 - **Transformation Components:** Utilized for data transformation, including operations like data type conversion or merging.
 
+![image](https://github.com/aysegulyigitbi/SSIS/assets/127193220/3ff0d423-4c6a-45a5-9bdb-26f593367f4a)
+
+
 - **Destination Components:** Employed for transferring data to designated destinations, for instance, SQL Server or an Excel file.
+
+![image](https://github.com/aysegulyigitbi/SSIS/assets/127193220/3bf0cfc1-0901-4ad6-8916-557ed8082872)
+
 
 ## Core Functions of SSIS 📦
 
